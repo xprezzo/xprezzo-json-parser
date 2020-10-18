@@ -1,7 +1,7 @@
 {
   "name": "xprezzo-json-parser",
   "description": "Xprezzo json parser middleware",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "author": "Ben Ajenoui <info@seohero.io>",
   "repository": "xprezzo/xprezzo-json-parser",
