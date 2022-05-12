@@ -1,29 +1,28 @@
 {
   "name": "xprezzo-json-parser",
   "description": "Xprezzo json parser middleware",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "license": "MIT",
-  "author": "Ben Ajenoui <info@seohero.io>",
+  "author": "Cloudgen Wong <cloudgen.wong@gmail.com>",
   "repository": "xprezzo/xprezzo-json-parser",
   "dependencies": {
     "depd": "~2.0.0",
-    "xprezzo-content-type": "~1.0.0",
-    "xprezzo-raw-body": "1.1.1",
-    "xprezzo-typeis": "~1.0.0"
+    "xprezzo-content-type": "1.1.1",
+    "xprezzo-raw-body": "1.1.2",
+    "xprezzo-typeis": "1.1.0"
   },
   "devDependencies": {
-    "eslint": "~7.11.0",
-    "eslint-config-standard": "~14.1.1",
-    "eslint-plugin-import": "~2.22.1",
-    "eslint-plugin-markdown": "~1.0.2",
+    "eslint": "8.15.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-markdown": "2.2.1",
     "eslint-plugin-node": "~11.1.0",
-    "eslint-plugin-promise": "~4.2.1",
-    "eslint-plugin-standard": "~4.0.1",
+    "eslint-plugin-promise": "6.0.0",
     "methods": "1.1.2",
-    "mocha": "~8.2.0",
+    "mocha": "10.0.0",
     "nyc": "15.1.0",
-    "supertest": "4.0.2",
-    "xprezzo-buffer": "1.1.1"
+    "supertest": "6.2.3 ",
+    "xprezzo-buffer": "1.1.2"
   },
   "files": [
     "lib/",
